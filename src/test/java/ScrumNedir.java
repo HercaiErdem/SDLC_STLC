@@ -1,6 +1,6 @@
 public class ScrumNedir {
 
-    // Scrum Nedir?SCRUM NEDİR?
+    // SCRUM NEDİR?
     /*
     *Scrum, Agile proje yönetim metodolojilerinden biridir.
     *Scrum, yazılım süreçini yönetirken  bütünü parçalayan; tekrara dayalı bir yöntem izler.

@@ -21,8 +21,15 @@ public class ScrumNedir {
     Sprint Backloguna alınır.
      */
 
+    // SCRUM ROLES
+    /*
+    Product Owner
+    Scrum Master
+    Development Team (Geliştirme Ekibi, Front-End Developer, Back-End Developer,
+    Dev-Ops, QA (Tester), İş Analisti (BA), UI-UX designer vb.)
+     */
 
-    // 1) Product Owner;
+    //  Product Owner;
     /*
     *Geliştirme Takımı ve Stakeholders(müşteriler) arasındaki iletişimi gerçekleştirir.
     *Projenin önceliklerine göre Product Backlog (iş listesi) oluşturur. Birinci önceliği Product Backlog ı
@@ -32,9 +39,7 @@ public class ScrumNedir {
 
     **Product Owner, Development Team’in ve Scrum’in yöneticisi değildir. Development Team, teknik konularda
     kendi kendini yönetir(Self Organized). PO; iş, görev ataması yapamaz. İşin nasıl yapılacağına karışamaz!
-
-
-*/
+   */
 
 
 }

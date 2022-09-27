@@ -1,3 +1,5 @@
+package sdlcNotlar;
+
 public class YazılımGeliştirmeMethodolojileri {
 
     // En Yaygın Kullanılan Yazılım Geliştirme Metodolojileri;

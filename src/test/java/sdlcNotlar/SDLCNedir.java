@@ -1,3 +1,5 @@
+package sdlcNotlar;
+
 public class SDLCNedir {
 
     // SDLC Nedir?

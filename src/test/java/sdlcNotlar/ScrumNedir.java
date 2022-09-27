@@ -1,3 +1,5 @@
+package sdlcNotlar;
+
 public class ScrumNedir {
 
     // SCRUM NEDİR?

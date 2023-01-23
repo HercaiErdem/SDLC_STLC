@@ -4,13 +4,13 @@ public class ScrumNedir {
 
     // SCRUM NEDİR?
     /*
-    *Scrum, Agile proje yönetim metodolojilerinden biridir.
-    *Scrum, yazılım süreçini yönetirken  bütünü parçalayan; tekrara dayalı bir yöntem izler.
-    *Müşteri ihtiyacına göre şekillendiği için müşterinin isteklerini göz önünde bulundurur. Müşterilere belli
-    aralıkta ürünü gösterir.
-    *Scrum için takım çalışması çok önemlidir. Çünkü ekip sürekli iletişim içindedir ve birbirlerine
-    düzenli geri bildirim(meetings) ve planlamalarla hedefe ulaşmayı sağlar.
-    *Takım kendi kendini örgütler(Self Organized). Herkes kendi sorumluluğunu bilir ve uyum içinde calışırlar.
+    * Scrum, Agile proje yönetim metodolojilerinden biridir.
+    * Scrum, yazılım süreçini yönetirken  bütünü parçalayan; tekrara dayalı bir yöntem izler.
+    * Müşteri ihtiyacına göre şekillendiği için müşterinin isteklerini göz önünde bulundurur. Müşterilere belli
+      aralıkta ürünü gösterir.
+    * Scrum için takım çalışması çok önemlidir. Çünkü ekip sürekli iletişim içindedir ve birbirlerine
+      düzenli geri bildirim(meetings) ve planlamalarla hedefe ulaşmayı sağlar.
+    * Takım kendi kendini örgütler(Self Organized). Herkes kendi sorumluluğunu bilir ve uyum içinde calışırlar.
      */
 
     // SPRINT

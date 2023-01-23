@@ -86,66 +86,7 @@ public class TestCesitleri {
        * Bu test, yazılımın kullanıcı ve müşteri tarafından kabul edilip edilmeyeceğini belirlemek için test edilmesine
        olanak sağlamaktır.
        * Bu doğrulamalar iş gereksinimlerine aşina olan son kullanıcılar tarafından gerçekleştirilir.
-       * Yazılım yayınlanmadan(ürün canlıya çıkmadan) gerçekleştirilen son testtir. Beta testi olarakta adlandırılır.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+       * Yazılım yayınlanmadan(ürün canlıya çıkmadan) gerçekleştirilen son testtir. Beta testi olarakta adlandırılır
      */
 
 }

@@ -17,7 +17,7 @@ public class ScrumSureci {
     Master’dan destek ve yardım alabilir.
      */
 
-     // Sprint Backlog Nedir?
+    // Sprint Backlog Nedir?
     /*
     * Bir sprintte yapılacak işlerin adımlandırılmış, detaylandırılmış, saatlendirilmiş içeriğin yer aldığı ve
     Product Backlog’daki öncelik sırasına göre, tüm ekibin beraber  oluşturduğu bir listedir.
@@ -25,11 +25,11 @@ public class ScrumSureci {
     ilk sprint'lere koymazlar
      */
 
-   // Scrum Ceremonies Nedir?
-     /*
-     4 tane Scrum meetings vardir.
-      */
-     // 1. Sprint Planning Meeting:
+    // Scrum Ceremonies Nedir?
+
+    // 4 tane Scrum meetings vardir.
+
+    // 1. Sprint Planning Meeting:
     /*
     * Bu meeting, her Sprint'i başlatan etkinliktir.
     * PO ve Development ekibinin Sprint'e hangi Product Backlog lerı(PBI) dahil edileceğini tartıştığı toplantıdır.
@@ -39,13 +39,13 @@ public class ScrumSureci {
 
     // 2. Daily Scrum / Daily Standup Nedir?
     /*
-    * Her gün yapilan ve team in birbirlerine bilgi verdiği toplantıdır. Bu toplantıya sadece Development team katılır.
-    * Genellikle kısa süren(yaklasik 15 dakika kadar) toplantıdır.
-    * Birçok takım bu toplantıyı kısa ve öz tutmak için yararlı bir teknik olarak bulmaktadır.
-    * Genelde dün neler yaptık? Bugün ne üzerinde çalışacağız? Her hangi bir sıkıntı veya engel ile karşılaştık mı?
+     * Her gün yapilan ve team in birbirlerine bilgi verdiği toplantıdır. Bu toplantıya sadece Development team katılır.
+     * Genellikle kısa süren(yaklasik 15 dakika kadar) toplantıdır.
+     * Birçok takım bu toplantıyı kısa ve öz tutmak için yararlı bir teknik olarak bulmaktadır.
+     * Genelde dün neler yaptık? Bugün ne üzerinde çalışacağız? Her hangi bir sıkıntı veya engel ile karşılaştık mı?
      */
 
-     // 3. Sprint Review – Sprint Demo Nedir?
+    // 3. Sprint Review – Sprint Demo Nedir?
     /*
     * Stakholders ve PO ın katıldığı bu toplantıdır.
     *Bu toplantıda, Stakeholders calışan ürünü görerek bu ürüne eklenmesi  istedikleri yeni özellikler ya da
@@ -61,31 +61,6 @@ public class ScrumSureci {
     * Önceki sprint in değerlendirilmesi yapılır.
     * Bu toplantıya geliştirme ekibi, scrum master ve product owner katılır.
      */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 }

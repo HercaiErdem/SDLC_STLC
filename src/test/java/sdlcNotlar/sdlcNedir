@@ -1,17 +1,14 @@
-package sdlcNotlar;
 
-public class SDLCNedir {
+     SDLC Nedir?
 
-    // SDLC Nedir?
+    SDLC'nin açılımı: Softaware Development Life Cycle (Yazilim Gelistirme Yasam Dongusu)
 
-    //SDLC'nin açılımı: Softaware Development Life Cycle (Yazilim Gelistirme Yasam Dongusu)
-    /*
-    SDLC mümkün olan en kısa sürede, en yüksek kalitede((High-Quality)), en düşük maliyetle
+    SDLC mümkün olan en kısa sürede, en yüksek kalitede(High-Quality), en düşük maliyetle
     ve Kullanici Taleplerini (User Expectation) karşılayan yazılım üreten bir süreçtir(Process).
-    */
 
-    // SDLC’nin Faydaları:
-    /*
+
+     SDLC’nin Faydaları:
+
     1)Projenin takibini ve kontrolunu saglar,
     5)Projenin sürekli takibi ve kontrolu sayesinde, projede oluşabilecek bug ların risklerini azaltir,
     3)Yapilan planlama ve toplantilarla Projenin Olusturulma ve gelistirme (Development) hizini
@@ -19,10 +16,10 @@ public class SDLCNedir {
     4)Oluşturulan detaylı planlama dokumanları sayesinde,Çalışanlar neyi, neden yapmaları gerektiğini
     anlarlar,
     5)Tüm ekibin iletişimini güçlendirir.
-    */
 
-    //SDLC altı aşamadan oluşur:
-    /*
+
+    SDLC altı aşamadan oluşur:
+
     1) Planning and Requirement Analysis (Planlama ve İhtiyaç Analizi):
     *SDLC’ nin bu aşamasında, müşteriden gelen fikirler de göz önünde bulundurularak ekibin kıdemli üyeleri
     (expert) tarafından gerçekleştirilir.
@@ -62,16 +59,13 @@ public class SDLCNedir {
     *Musteriden gelen feedbackler ve Teknolojik Gelismeler ile ihtiyaclar yeniden belirlenir
     ve dongu yeniden baslatilir.
 
-    */
 
-    // SDLC TEAM
+     SDLC TEAM
 
-      /*
+
       1) Project Manager (PM)=> Proje Yöneticisi
       2) Business Analyst (BA)=> İş Analisti
       3) Developer (Dev)=> Yazılımcı
      4) Quality Analyst (QA)=> Kalite Analisti (Tester)
     oluşturmaktadır.
-     */
 
-}

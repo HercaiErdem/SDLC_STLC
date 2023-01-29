@@ -1,9 +1,6 @@
-package stlcNotlar;
 
-public class TestCesitleri {
+     Types of Software Testing(Test Çeşitleri)
 
-    // Types of Software Testing(Test Çeşitleri)
-    /*
    Software testing 2 ana başlığa ayrılır.
    1) STATIC TESTING:
    * Statik test kod yürütülmeden(yani dinamik testlere  geçilmeden önce) kodun
@@ -16,8 +13,8 @@ public class TestCesitleri {
    * Kodun bütününü çeşitli yöntemlerle test etmeye yarayan test metottur.
    * Bu testin temel amacı, yazılım ürününün iş gereksinimlerine uygun olarak
    çalıştığını doğrulamaktır.
-   */
-    /*
+
+
     Dynamic Testing de 2 ana başlığa ayrılır.
     1) FUNCTIONAL TESTING(Fonksiyonel Test):
     * Fonksiyonel Test, testini gerçekleştirdiğimiz uygulamanın her bir fonksiyonunun
@@ -30,9 +27,10 @@ public class TestCesitleri {
      * Amaç sistemin hazır olup olmadığını belirlemektir.
      * Bileşenlerin veya sistemin kalite özellikleri test edilir.
      * Örneğin sistemi aynı anda kaç kullanıcı kullanabilir sistem yeterince güvenli midir?
-     */
-     /*
-     Functional Testng de 2 ana başlığa ayrılmaktadır.
+
+
+     Functional Testng de 2 ana başlığa ayrılmaktadır;
+
      1) WHITE-BOX TESTING(BEYAZ KUTU TEST):
      * Beyaz kutu testinde, kodun içine girilerek kodun doğruluğu ve kalitesi test edilir.
      * Kodun içine girilerek kodun doğruluğu ve kalitesi test edilir.
@@ -87,6 +85,3 @@ public class TestCesitleri {
        olanak sağlamaktır.
        * Bu doğrulamalar iş gereksinimlerine aşina olan son kullanıcılar tarafından gerçekleştirilir.
        * Yazılım yayınlanmadan(ürün canlıya çıkmadan) gerçekleştirilen son testtir. Beta testi olarakta adlandırılır
-     */
-
-}

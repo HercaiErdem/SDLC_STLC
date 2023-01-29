@@ -1,0 +1,92 @@
+package stlcNotlar;
+
+public class TestCesitleri {
+
+    // Types of Software Testing(Test Çeşitleri)
+    /*
+   Software testing 2 ana başlığa ayrılır.
+   1) STATIC TESTING:
+   * Statik test kod yürütülmeden(yani dinamik testlere  geçilmeden önce) kodun
+    veya diğer proje dokümanlarının manual olarak gözden geçirilmesidir.
+   * Bu inceleme, STLC'de kusuru yakalamak için testin ilk aşamasında yapılır.
+   * Statik testin temel amacı, yazılım geliştirme sürecinin erken aşamalarında
+   hataları bularak yazılım uygulamalarının kalitesini artırmaktır.
+
+   2) DYNAMIC TESTING(DİNAMİK TEST):
+   * Kodun bütününü çeşitli yöntemlerle test etmeye yarayan test metottur.
+   * Bu testin temel amacı, yazılım ürününün iş gereksinimlerine uygun olarak
+   çalıştığını doğrulamaktır.
+   */
+    /*
+    Dynamic Testing de 2 ana başlığa ayrılır.
+    1) FUNCTIONAL TESTING(Fonksiyonel Test):
+    * Fonksiyonel Test, testini gerçekleştirdiğimiz uygulamanın her bir fonksiyonunun
+     verilen gereksinimlere uygun olarak çalışıp çalışmadığını doğrulayan test türüdür.
+    * Fonksiyonel test Black Box test altında kullanıldığı için uygulamanın kaynak kodu
+     ile ilgili değildir.
+
+     2) NON-FUNCTIONAL TESTING:
+     * Uygulamanın işlevsel olmayan özelliklerinin test edildiği bir test türüdür.
+     * Amaç sistemin hazır olup olmadığını belirlemektir.
+     * Bileşenlerin veya sistemin kalite özellikleri test edilir.
+     * Örneğin sistemi aynı anda kaç kullanıcı kullanabilir sistem yeterince güvenli midir?
+     */
+     /*
+     Functional Testng de 2 ana başlığa ayrılmaktadır.
+     1) WHITE-BOX TESTING(BEYAZ KUTU TEST):
+     * Beyaz kutu testinde, kodun içine girilerek kodun doğruluğu ve kalitesi test edilir.
+     * Kodun içine girilerek kodun doğruluğu ve kalitesi test edilir.
+     * Bu testin en önemli özeliği, Kodda erken bulunacak hatalar Kara Kutu(Black Box)
+     testlerini de kolaylaştırmasıdır.
+     * Beyaz kutu testleri genellikle developerlar tarafından yapıldığı gibi nadirde olsa
+     test uzmanları tarafından da uygulanabilir.
+
+     1.a)  UNIT TEST (BİRİM TESTİ):
+     * Her modülü test ettikten sonra, entegre modüllerin istenen çıktıyı verdiğinden emin
+     olmak için bir araya getirilir ve test edilir.
+     * Bu test her bir modülün herhangi bir kusur olmadan mükemmel bir şekilde etkileşime girmesini
+     sağlamayı amaçlar. Bu modüllerin verileri arasındaki iletişime odaklanır.
+
+     2) BLACK-BOX TESTING(KARA KUTU TEST TEKNİKLERİ):
+      * Kara Kutu Testi; sistemin, yazılımın iç yapısı hakkında bilgi sahibi olunmadan yani koda
+      bakılmadan sistemin işlevselliğini ölçmeye yarayan test tekniğidir.
+      * Kara kutu testlerindeki amaç, gereksinimleri karşılayan çıktıların alınıp alınmadığını ölçümlemektir.
+      * Sistemden almayı beklediğimiz çıktılar kadar beklemediğimiz çıktılar da test edilmelidir.
+
+      2.a) INTEGRATION TEST(Entegrasyon Testi):
+      *Birim(Unit) testlerinin sonuçlandırılmasından sonra entegrasyon testleri başlar.
+      * Unit testlerinde amaç modüllerin ayrı ayrı kendilerinden beklenen işlevleri yerine getirdiğinin
+      doğrulanmasıyken entegrasyon testleri tüm yazlım modüllerinin bir araya getirilip sistemin bütünsel olarak
+      doğru çalıştığının doğrulanmasıdır.
+
+      2.b) SMOKE TEST(Duman Testi):
+      * Smoke testi projede en önemli işlevlerin çalışmasını sağlamayı amaçlayan kapsamlı olmayan bir test türüdür.
+      * Amaç uygulamanın teste devam edecek düzeye gelip gelmediğini kontrol etmektir.
+      * Smoke testlerini evreleme ve üretim ortamlarında erken ve sık sık tekrarlamak gerekmektedir.
+      * Örneğin, bir web sitesinde Login olabilme, sepete ürün ekleme, ürünü satın alma işlemlerinin testinin her gün
+      tekrarlanması gerekmektedir.
+
+      2.c) SANITY TEST:
+      * Uygulama üzerinde küçük bir hata giderildiğinde veya küçük değişiklikler ardından yapılan testlerdir.
+      * Sanity testi; test sürecinde uygulamanın değişen işlevine odaklanırken smoke testi tüm önemli işlevlerin
+      çalıştığından emin olmak için yapılır.
+      * Bu test sayesinde hatalar daha erken bir aşamada bulunabilir.
+
+      2.d) REGRESSION TEST(Regresyon Testi):
+      * Bu test türünde yazılım üzerinde yapılan update(değişiklik) sonucunda uygulama kodunun bozulup bozulmadığını
+      doğrulamak için yapılan test türüdür.
+      * Update lerden sonrasında mevcut özelliklerin çalışıp çalışmadığını kontrol etmek için yapılan test türüdür.
+
+      2.e) E2E – END TO END Test:
+      * End To End test, bir uygulama akışını baştan sona test etmek için kullanılan test türüdür.
+      * Bu testin amacı, gerçek kullanıcı senaryosunu simüle etmek ve test edilen sistemi ve bileşenlerini entegrasyon
+       ve veri bütünlüğü için doğrulamaktır.
+
+       2.f) User Acceptance Testing UAT (Kullanıcı Kabul Testi):
+       * Bu test, yazılımın kullanıcı ve müşteri tarafından kabul edilip edilmeyeceğini belirlemek için test edilmesine
+       olanak sağlamaktır.
+       * Bu doğrulamalar iş gereksinimlerine aşina olan son kullanıcılar tarafından gerçekleştirilir.
+       * Yazılım yayınlanmadan(ürün canlıya çıkmadan) gerçekleştirilen son testtir. Beta testi olarakta adlandırılır
+     */
+
+}
